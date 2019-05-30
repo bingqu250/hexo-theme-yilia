@@ -2,7 +2,11 @@
 
 menu:
   主页: /
+  诗: /tags/诗/
+  译文: /tags/译文/
+  评论: /tags/评论/
   随笔: /tags/随笔/
+
 
 # SubNav
 subnav:
@@ -116,7 +120,7 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+#  friends: '友链'
   aboutme: '关于我'
 
 friends:
@@ -127,4 +131,4 @@ friends:
   友情链接5: http://localhost:4000/
   友情链接6: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 一些小小的感悟
